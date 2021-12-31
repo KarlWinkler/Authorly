@@ -6,4 +6,4 @@ A web app for writing books
 
 ![ER Diagram](/res/img/ER.png)
 
-![Website Flow Diagram]("/res/img/Web Flow.png")
+![Website Flow Diagram](/res/img/Web Flow.png)
