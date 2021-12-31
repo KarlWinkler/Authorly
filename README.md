@@ -11,4 +11,9 @@ ER Diagram
 
 Website Flow Chart
 
+
+
+
+
+
 ![Website Flow Diagram](/res/img/Web Flow.png)
