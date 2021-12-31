@@ -1,2 +1,5 @@
 # Authorly
-fanfic central, write your books here :)
+
+A web app for writing books
+
+![ER Diagram](/res/img/ER.png)
