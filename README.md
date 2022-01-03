@@ -22,6 +22,6 @@ After figuring out how to use react to do what i want I set out to design the lo
 Landing Page
 
 
-![Landing Page One](/res/img/Landing Page 1.png)
+![Landing Page One](https://github.com/KarlWinkler/Authorly/blob/26acf1c4120a0c28ac39faf7df795f20c3bfa58f/res/img/Landing%20Page%201.png)
 
-![Landing Page Two](/res/img/Landing Page 2.png)
+![Landing Page Two](res/img/Landing Page 2.png)
