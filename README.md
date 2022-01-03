@@ -49,7 +49,7 @@ this page lets the user read chapters in a book and navigate through the book, I
 
 ![User Home](https://github.com/KarlWinkler/Authorly/blob/a1182ecf81d48ff48359b90af731c80145afddce/res/img/User%20Home.png)
 
-Signed in users will be able to access tehir books as well as browse other's public books
+Signed in users will be able to access their books as well as browse other's public books
 
 ### My Books
 
