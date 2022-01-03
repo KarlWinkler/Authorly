@@ -24,4 +24,4 @@ Landing Page
 
 ![Landing Page One](https://github.com/KarlWinkler/Authorly/blob/26acf1c4120a0c28ac39faf7df795f20c3bfa58f/res/img/Landing%20Page%201.png)
 
-![Landing Page Two](res/img/Landing Page 2.png)
+![Landing Page Two](https://github.com/KarlWinkler/Authorly/blob/26acf1c4120a0c28ac39faf7df795f20c3bfa58f/res/img/Landing%20Page%202.png)
