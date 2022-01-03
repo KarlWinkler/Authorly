@@ -2,7 +2,9 @@
 
 A web app for writing books
 
-# Diagrams for the database and website design
+# Initial Diagrams for the database and website design
+
+These were designed before anything else so that I could get a rough idea of what I wanted to do
 
 ER Diagram
 
