@@ -1,0 +1,24 @@
+body{
+    background-color: aliceblue;
+}
+
+.clock-bg{
+
+    margin: 0;
+    width: 100%;
+    background-color: #334455;
+    max-width: 100%;
+}
+
+.toggle-button{
+    width: fit-content;
+    margin: 2% auto;
+}
+
+.time{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: lightseagreen;
+    overflow: hidden;
+    border-radius: 0px 100px 0px 100px;
+}
