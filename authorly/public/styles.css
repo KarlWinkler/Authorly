@@ -1,5 +1,97 @@
+:root{
+    --primary-colour: #9c29b7;
+    --secondary-colour: #e692f8;
+    --tertiary-colour: #e692f8;
+}
+
 body{
     background-color: aliceblue;
+}
+
+hr{
+    border: 5px solid var(--tertiary-colour);
+    color:gray;
+    background-color:gray;
+    margin: 0;
+    opacity: 1;
+}
+
+.mainDiv{
+    background-image: url(https://i.pinimg.com/originals/c0/9f/6b/c09f6b8ace1a5cbd012cbdde0787da2e.jpg);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-title{
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.shadow{
+    background-color: rgba(0,0,0,0.3);
+    
+}
+
+.main-title-div{
+    margin: 10% 0 5% 0;
+}
+
+.title-div{
+    border-radius: 5px;
+    width: fit-content;
+    padding: 1% 2%;
+    margin: auto;
+}
+
+.header{
+    color: var(--tertiary-colour);
+    font-size: 7rem;
+}
+
+.title-paragraph{
+    padding: 3%;
+}
+
+.paragraph{
+    font-size: 1.2rem;
+}
+
+
+.register-btn{
+    padding: 1% 5%;
+    font-size: 24px;
+    margin: 0% 5% 8%;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: var(--primary-colour);
+    border-color: var(--primary-colour);
+}
+
+.btn-primary:hover{
+    color: darkSlateGray;
+    background-color: #d93ffc;
+    border-color: #d93ffc;
+}
+
+.btn-secondary{
+    color: darkslategray;
+    background-color: var(--secondary-colour);
+    border-color: var(--secondary-colour);
+    
+}
+
+.btn-secondary:hover{
+    color: #fff;
+    background-color: #9d5dac;
+    border-color: #9d5dac;
+    
+}
+
+.header-div{
+    padding: 3%;
 }
 
 .clock-bg{
@@ -21,4 +113,26 @@ body{
     background-color: lightseagreen;
     overflow: hidden;
     border-radius: 0px 100px 0px 100px;
+}
+
+/* card classes */
+
+.card{
+    border-color: var(--tertiary-colour);
+    border-radius: 20px;
+    border-width: 4px;
+    
+}
+
+.card:hover{
+    color: red;
+}
+
+.card-image{
+    
+    border-radius: 10px;
+}
+
+.card-title{
+    font-size: 0.5em;
 }
